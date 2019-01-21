@@ -14,3 +14,4 @@ pipenv install
 pipenv run "python <filelocation&name>"
 
 ```````
+find_meteors now in subdirectory meteors
